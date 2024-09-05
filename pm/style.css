@@ -1,0 +1,106 @@
+body{
+    background-color: whitesmoke;
+    margin: 0;
+    min-height: 100vh;
+    padding: 0px 10px 0px 10px;
+}
+
+nav{
+    background-color: lightgray;
+    color: green;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.nav-link{
+    margin-bottom: 10px;
+}
+
+.navbar-brand{
+    font-size: 40px;
+}
+
+#home h3{
+    margin-bottom: 30px;
+}
+
+#home p{
+    display: flex;
+    float: left;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray ;
+    padding-left: 10px;
+    border-left: 5px black solid;
+}
+
+#home img{
+    display:  flex;
+    float: right;
+    width: 100%;
+    height: 100%;
+}
+
+.card{
+    background-color: lightgray;
+    border: 2px black solid;
+}
+
+.card-title{
+    text-align: center;
+
+}
+
+.card img{
+    width: 100%;
+    height: 100%;
+}
+
+#felso{
+    margin: 30px 0px 25px 0px;
+}
+
+h1{
+    margin-top: 50px;
+}
+
+#egy{
+    width: 80%;
+    height: 100%;
+    align-items: center;
+  padding-left: 0px;
+  margin-left: 0px;
+
+}
+
+#ketto{
+    width: 80%;
+    height: 95%;
+    align-items: center;
+    margin-left: 10%;
+
+}
+
+#felsosor{
+    margin: 40px 0px 40px 5.5%;
+    width: 90%;
+    align-items: center;
+    border-bottom: 5px black solid;
+    padding-bottom: 40px;
+}
+
+#felsosor p, ul{
+    margin-right: 40px;
+    font-size: 25px;
+    color: gray;
+    margin-top: 20px;
+}
+
+#also{
+    margin-left: 90px;
+}
+
+#also p, ul{
+    font-size: 25px;
+    color: grey;
+}
